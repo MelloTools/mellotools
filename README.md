@@ -1,6 +1,6 @@
 # MelloTools
 
-**80+ free utilities that run entirely in your browser.** No uploads, no signup, no accounts — your data never leaves your machine.
+**120+ free utilities that run entirely in your browser.** No uploads, no signup, no accounts — your data never leaves your machine.
 
 ### → [mello.tools](https://mello.tools)
 
